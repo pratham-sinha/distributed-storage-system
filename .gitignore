@@ -2,8 +2,8 @@
 .idea/
 *.iml
 
-# Java
-target/
+# Maven
+**/target/
 
 # Logs
 *.log
